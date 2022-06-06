@@ -23,6 +23,7 @@ This application generates random passwords in same case quantity until the ente
 
 ## iii) Calculator
 Using tkinter module, Calculator was created.
+
 ![Calc](https://user-images.githubusercontent.com/105327418/172097556-2cb5e810-62d5-4185-87d7-2e5232fa6a10.png)
 
 ## iv) Digital Clock
